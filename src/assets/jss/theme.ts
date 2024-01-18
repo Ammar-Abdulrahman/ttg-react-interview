@@ -3,7 +3,8 @@ import { createTheme } from '@material-ui/core/styles'
 
 import { grey } from '@material-ui/core/colors';
 
-const primary = '#ea26c2';
+//edit the color theme
+const primary = '#3E51FA';
 
 const theme = createTheme({
   typography: {
